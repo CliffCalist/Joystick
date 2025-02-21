@@ -1,6 +1,6 @@
 {
-    "name": "WhiteArrow.UI.Joystick.Editor",
-    "rootNamespace": "WhiteArrow.UI.Editor",
+    "name": "WhiteArrowEditor.UI.Joystick",
+    "rootNamespace": "WhiteArrowEditor.UI",
     "references": [
         "GUID:4804bc337a94b41328686314a544de6b"
     ],

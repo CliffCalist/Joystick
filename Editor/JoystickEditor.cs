@@ -1,8 +1,8 @@
-﻿using UnityEngine;
-using UnityEditor;
+﻿using UnityEditor;
+using UnityEngine;
 using WhiteArrow.UI;
 
-namespace WhiteArrowEditor
+namespace WhiteArrowEditor.UI
 {
     [CustomEditor(typeof(Joystick), true)]
     public class JoystickEditor : Editor
