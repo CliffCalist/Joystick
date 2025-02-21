@@ -1,0 +1,18 @@
+{
+    "name": "WhiteArrow.UI.Joystick.Editor",
+    "rootNamespace": "WhiteArrow.UI.Editor",
+    "references": [
+        "GUID:4804bc337a94b41328686314a544de6b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

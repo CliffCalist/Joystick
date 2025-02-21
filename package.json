@@ -1,0 +1,10 @@
+{
+    "name": "com.white-arrow.ui",
+    "version": "1.0.0",
+    "displayName": "Joystick",
+    "description": "Modified working version of the joystick: https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631",
+    "author": {
+        "name": "White Arrow",
+        "email": "cliffstersprog@gmail.com"
+    }
+}
